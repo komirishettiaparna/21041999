@@ -1,0 +1,17 @@
+Javascript(JS):
+-->Scripting language, interpreted programming language
+Difference between java and JS:
+-->Java uses compiler and JS uses Interpreter
+-->Java is used for Backend and JS is used for Frontend
+-->Java is a OOP programming language and JS is a OOp scripting language
+-->Java needs a virtual machine platform that allows you to create compiled programs version of Javascript:
+-->ES6(ECMAScript 6)
+-->It is started in European compurt manufacturing association(ECMAScript)
+Ways to add JS to HTML:
+1.Internal --> The script will be written in the body section by using a tag which is<script></script>
+2.External--> Creating a file with .js extension and adding it to HTML page(<script src=""></script>)
+Ways to create Variables:
+1.Just by name
+2.using var
+3.using const
+4.using let
